@@ -4,4 +4,4 @@ const num = time.math(1);
 console.log(num);
 console.log(msg);
 document.getElementById;
-codeuuu.get;
+console.log(111);
