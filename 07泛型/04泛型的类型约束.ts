@@ -8,3 +8,4 @@ function getLength<T extends Ilength>(len: T) {
 getLength("123");
 getLength([1, 2, 3]);
 getLength({ length: 5 });
+console.log(11)
